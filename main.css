@@ -1,0 +1,179 @@
+/*** sectioning elements ***/
+
+body {
+    background-color:#d1d0ba;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+header {
+
+}
+
+main {
+
+}
+
+footer {
+
+}
+
+nav {
+
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+
+/**** content styles ***/
+
+h1 {
+    border: 5px;
+    color:#00066b;
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 100x;
+    text-align: center;
+    border-style: solid;
+    border-color: #421d59;
+}
+
+h2 {
+    color: #6b0000;
+    font-family: sans-serif;
+    font-size: 50px;
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+    font-size: 40px;
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+    font-size: 50px;
+}
+
+li {
+
+}
+
+table {
+
+}
+
+tr {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+
+/*** image styles ***/
+
+img  {
+    margin: 10px;
+}
+
+iframe {
+    margin: 10px;
+}
+
+/*** link styles ***/
+
+a:link {
+  background-color: #ffe7e6;
+  color: #691000;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:visited {
+    background-color: #ffe7e6;
+    color: #202b1d;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover {
+    background-color: #ffe7e6;
+    color: #3d0000;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:active {
+    background-color: #ffe7e6;
+    color: #0c3626;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.centervideo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/**
+@media (min-width: 600px) {
+    h1 {
+        font-size: 100px;
+    }
+    h2 {
+        font-size: 50px;
+    }
+    p {
+        font-size: 40px;
+    }
+}
+**/
+
+/* I don't know what the heck to do with this text in order to make sure it's good for mobile, although I'll comment this out */ 
